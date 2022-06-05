@@ -1,16 +1,16 @@
 {
-	"owner": ["6287892711054@s.whatsapp.net"],
+	"owner": ["6285822347348@s.whatsapp.net"],
 	"thumbvideo": "https://uploader.caliph.my.id/file/hU0F0HZ9K4.mp4",
 	"thumb": "https://telegra.ph/file/d8dba7eee759ff82b35be.jpg",
 	"session": "session.json",
-	"ownername": "Hyzer",
+	"ownername": "ArullMD",
 	"self": false,
 	"limit": { "limitUser": 30, "gameLimitUser": 10, "gameLimitPremium": 30 },
-	"packInfo": { "packname": "@hyzer", "author": "official" },
-	"namebot": "ShikimoriBot",
+	"packInfo": { "packname": "@ArullMD", "author": "official" },
+	"namebot": "ArullBotz",
 	"timezone": "Asia/Jakarta",
-	"email": "shirobot.team@gmail.com",
-	"instagram": "https://instagram.com/zexyds_",
+	"email": "sahrulwara62@gmail.com",
+	"instagram": "https://instagram.com/sahrulwara_____",
 	"locale": "id",
 	"ignore": {
 		"directory": ["umum"]
