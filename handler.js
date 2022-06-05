@@ -150,7 +150,7 @@ module.exports = handler = async (m, conn, map) => {
 								" multi-device whatsapp bot using JavaScript and made by " +
 								config.ownername,
 							thumbnail: await conn.getBuffer(config.thumb),
-							sourceUrl: "https://github.com/Rizky878/rzky-multidevice/",
+							sourceUrl: "https://github.com/Arullwara/rzky-md/",
 						},
 				  })
 				: "";
